@@ -1,0 +1,19 @@
+TAGS HTML
+
+
+
+<strong> Deixar em negrito </strong> ANTIGA TAG = <b> bold
+<em> Dar ênfase </em> 
+<mark> Marcas o texto </mark>
+<del> Riscar texto </del>
+<ins>Deve ler o texto</ins>
+<sub> Deixar numero pequeno debaixo da letra
+<sup> Deixar número pequeno em cima da letra
+
+<abbr> - ABREVIAÇÃO
+
+<pre><code> SERVE PARA DIGITAR CÓDIGO </code></pre>
+
+<q> Coloca aspas automaticamente para citar informações </q>
+
+<blockquote> Serve para dar espaçamento automaticamente</blockquote>
