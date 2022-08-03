@@ -1,3 +1,11 @@
+
+SITES IMPORTANTES: 
+https://color.adobe.com/
+
+
+
+
+
 TAGS HTML
 
 
@@ -17,3 +25,41 @@ TAGS HTML
 <q> Coloca aspas automaticamente para citar informações </q>
 
 <blockquote> Serve para dar espaçamento automaticamente</blockquote>
+
+
+CRIAR LISTAS 
+
+---------------------
+
+<ol>Delimitar a quantidade da lista. </ol>
+<li>Para identificar a lista</li>
+
+
+ADICIONAR LINKS 
+
+--------------------
+
+<a href='Adicionar Link' target="_blank">Blank serve para que quando você clicar no link abrir outra página.</a>
+
+MUDAR IMAGEM APÓS ATINGIR DETERMINADO TAMANHO NO NAVEGADOR.
+-------------------------
+
+<picture>
+<source media="(max-width: 750px)" srcset="Caminho da foto que será exibida após passar por esse tamanho" type="image/png"
+</picture>
+
+COLOCAR ÁUDIO
+
+-----------------------------------
+
+<audio preload="metadata" controls autoplay loop>
+<source src="local do áudio" type="audio/mpeg"
+
+-------------------------------------------------
+
+
+TAGS CSS
+
+background-image: linear-gradient(to right, #color, #color) - Colocar degrade
+font-family: Mudar a fonte
+
