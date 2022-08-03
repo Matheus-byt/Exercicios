@@ -60,6 +60,14 @@ COLOCAR ÁUDIO
 
 TAGS CSS
 
-background-image: linear-gradient(to right, #color, #color) - Colocar degrade
-font-family: Mudar a fonte
+background-image: linear-gradient(to right, #color, #color) - Colocar degrade;
+font-size: sempre utilizar em ou px (Define tamanho da fonte) 1em = 16px (tamanho padrão).
+font-family: Mudar a fonte;
+font-weight: (lighter normal bold bolder) ou de 100 a 900;
+font-style: italic (define o estilo da fonte);
+text-decoration: underline; (Coloca o sublinhado);
+
+SHORTHAND FONT (Define os estilos de maneira curta sem precisar de tantas linhas).
+font-style -> font-weight -> font-size -> font-family
+font: italic bolder 3em 'Work Sans', sans-serif;
 
