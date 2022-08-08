@@ -1,14 +1,11 @@
 
 SITES IMPORTANTES: 
-https://color.adobe.com/
-
-
-
+https://color.adobe.com/ - Palheta de cores
+https://fonts.google.com/ - Escolher fontes recomendadas
+https://www.dafont.com/ - Fontes externas
 
 
 TAGS HTML
-
-
 
 <strong> Deixar em negrito </strong> ANTIGA TAG = <b> bold
 <em> Dar ênfase </em> 
