@@ -1,0 +1,14 @@
+ng new my-first-project
+cd my-first-project
+ng serve --open (Executar servidor)
+
+ng g component Menu - Gerar um componente. 
+
+
+--------------------------------
+
+
+buscar no JSON RODAR API
+
+npm run dev
+
