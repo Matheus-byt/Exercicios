@@ -79,5 +79,8 @@ SHORTHAND FONT (Define os estilos de maneira curta sem precisar de tantas linhas
 font-style -> font-weight -> font-size -> font-family
 font: italic bolder 3em 'Work Sans', sans-serif;
 
+PADDING (ESPAÇO INTERNO) - ESPAÇAMENTO DE DENTRO PRA FORA - BORDA DISTANTE DO CONTÉUDO
+MARGIN (ESPAÇO EXTERNO) - DA BORDA PRA FORA 
+
 
 
