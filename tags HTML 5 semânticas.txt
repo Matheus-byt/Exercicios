@@ -3,9 +3,16 @@ SITES IMPORTANTES:
 https://color.adobe.com/ - Palheta de cores
 https://fonts.google.com/ - Escolher fontes recomendadas
 https://www.dafont.com/ - Fontes externas
+WHATFONTIS - Capturar fontes de uma imagem
 
 
-TAGS HTML
+SOFTWARES IMPORTANTES:
+FONTS NINJAS - Captura fonte de um site
+COLORZILLA - Captura cores
+
+
+
+TAGS HTML: 
 
 <strong> Deixar em negrito </strong> ANTIGA TAG = <b> bold
 <em> Dar ênfase </em> 
@@ -64,7 +71,13 @@ font-weight: (lighter normal bold bolder) ou de 100 a 900;
 font-style: italic (define o estilo da fonte);
 text-decoration: underline; (Coloca o sublinhado);
 
+div:hover (:hover é pseudoclasse)
+hover: Significa que quando passar o mouse por cima de um elemento vai acontecer uma mudança. 
+div > p{} > Significa que o p é filho do seletor div. 
+
 SHORTHAND FONT (Define os estilos de maneira curta sem precisar de tantas linhas).
 font-style -> font-weight -> font-size -> font-family
 font: italic bolder 3em 'Work Sans', sans-serif;
+
+
 
